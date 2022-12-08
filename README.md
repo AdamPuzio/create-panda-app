@@ -28,12 +28,12 @@ That's it.
 
 So much to do...
 
-[ ] Swap `basic` scaffold to `kitchen-sink` and create a more stripped down, simple version of `basic` 
-[ ] Clean up UI of `basic` scaffold and add more comments into routes, views and services
-[ ] Add `README.md` file to project scaffolds
-[ ] Update documentation provided in new apps to better reflect need-to-know info
-[ ] Update this README to include more info on how `create-panda-app` works and its flags & configuration
-[ ] Add new scaffold(s) for other base app types (React, Lit, etc)
-[ ] Tie build process into existing scaffolds
-[ ] Build in live-updating of content
-[ ] Update `--interactive` flag to run list of input questions
+- [ ] Swap `basic` scaffold to `kitchen-sink` and create a more stripped down, simple version of `basic` 
+- [ ] Clean up UI of `basic` scaffold and add more comments into routes, views and services
+- [ ] Add `README.md` file to project scaffolds
+- [ ] Update documentation provided in new apps to better reflect need-to-know info
+- [ ] Update this README to include more info on how `create-panda-app` works and its flags & configuration
+- [ ] Add new scaffold(s) for other base app types (React, Lit, etc)
+- [ ] Tie build process into existing scaffolds
+- [ ] Build in live-updating of content
+- [ ] Update `--interactive` flag to run list of input questions
