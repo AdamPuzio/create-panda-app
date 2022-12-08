@@ -1,0 +1,11 @@
+
+<%
+if (typeof title === 'undefined') title = ''
+if (typeof subtitle === 'undefined') subtitle = ''
+%>
+  <div class="px-4 pt-5 my-5 text-center border-bottom bg-primary text-white" style="min-height: 25vh;">
+    <h1 class="display-4 fw-bold"><%-title%></h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead mb-4"><%-subtitle%></p>
+    </div>
+  </div>
