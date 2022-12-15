@@ -1,6 +1,6 @@
 {
   "name": "create-panda-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create a new Panda application",
   "main": "create-panda-app.js",
   "bin": {
