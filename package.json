@@ -1,6 +1,6 @@
 {
   "name": "create-panda-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a new Panda application",
   "main": "create-panda-app.js",
   "bin": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "map-stream": "^0.0.7",
-    "panda": "^0.6.2",
+    "panda": "^0.6.3",
     "vinyl-contents": "^2.0.0",
     "vinyl-fs": "^3.0.3"
   },
